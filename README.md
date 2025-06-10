@@ -1,6 +1,13 @@
 # Streamlit x AutoML sample
 
+<img src="doc/screenshot_01.png"></img>
+
+<img src="doc/screenshot_02.png"></img>
+
+
 ## AutoML on Streamlit
+
+- [`automl_full.py`](src/automl_full.py)
 
 このコードは、**Streamlit** を使って作成された **自動機械学習（AutoML）Webアプリケーション** です。
 
